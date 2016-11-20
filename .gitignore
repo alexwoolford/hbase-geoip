@@ -1,6 +1,10 @@
-
 .gitignore
 .idea/
 *.iml
 target/
 *.mmdb
+/bin/
+.settings
+.classpath
+.project
+dependency-reduced-pom.xml
